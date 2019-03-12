@@ -29,4 +29,17 @@ hr {
 img {
     border-radius: 50%;
 }
-    
+.leftcolumn{
+    width: 50%;
+    min-height: 100%;
+      float: left; 
+      text-align: right;
+    text-align: center;
+  }
+  
+  .rightcolumn{
+    width: 50%;
+    min-height: 100%;
+      float: right; 
+      text-align: left;
+}
