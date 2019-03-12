@@ -7,6 +7,9 @@ header{
     text-align: center;
 
 }
+.nav ul li {
+    display:inline;
+  }
 body{
     background-color: lightblue; 
     text-align: center;
