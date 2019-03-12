@@ -1,7 +1,11 @@
 header{
-    text-align: left;
+    text-align: center;
     color: white;
     background-color: black;
+}
+.nav{
+    text-align: center;
+
 }
 body{
     background-color: lightblue; 
