@@ -28,6 +28,7 @@ hr {
 }
 img {
     border-radius: 50%;
+    align-content: left;
 }
 .leftcolumn{
     width: 50%;
