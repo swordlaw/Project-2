@@ -3,7 +3,7 @@ header{
     color: white;
     background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
 }
-footer{
+.footer{
     text-align: center;
     background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
     color: white;
