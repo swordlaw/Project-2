@@ -1,0 +1,17 @@
+header{
+    text-align: left;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: lightblue; 
+    text-align: center;
+    margin: 1cm;
+    color: white;   
+}
+hr { 
+    border: 0; 
+    height: 1px; 
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0)); 
+}
+    
