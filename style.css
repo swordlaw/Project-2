@@ -45,6 +45,7 @@ hr {
 img {
     border-radius: 50%;
     align-content: left;
+    max-width: 50%;
 }
 .leftcolumn{
     width: 50%;
