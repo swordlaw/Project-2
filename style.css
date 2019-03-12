@@ -9,8 +9,11 @@ header{
     color: white;
 }
 
-a {
+a:link, :visited{
     color: white;
+}
+a:hover{
+    color: lightblue;
 }
 
 .nav{
