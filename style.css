@@ -3,6 +3,11 @@ header{
     color: white;
     background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
 }
+
+a {
+    color: white;
+}
+
 .nav{
     text-align: center;
     color: white;
