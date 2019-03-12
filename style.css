@@ -7,6 +7,9 @@ header{
     text-align: center;
     background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
     color: white;
+    clear: both;
+    height: 30px;
+    line-height: 30px;
 }
 
 a:link, :visited{
