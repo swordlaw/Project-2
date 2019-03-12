@@ -1,7 +1,7 @@
 header{
     text-align: center;
     color: white;
-    background-color: midnightblue;
+    background-image: linear-gradient(to right,lightblue, midnightblue, lightblue);
 }
 .nav{
     text-align: center;
