@@ -63,6 +63,7 @@ img {
     max-width: 50%;
     border-radius: 50%;
     align-content: center;
+    text-align: center;
 }
 .leftcolumn{
     width: 50%;
