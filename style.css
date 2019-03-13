@@ -78,3 +78,6 @@ img {
       float: right; 
       text-align: left;
 }
+.rightcolumn{
+    list-style-type: none;
+}
