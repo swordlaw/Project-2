@@ -76,8 +76,9 @@ img {
     width: 50%;
     min-height: 100%;
       float: right; 
-      text-align: left;
+      text-align: center;
 }
 .rightcolumn ul{
     list-style-type: none;
+    text-align: center;
 }
