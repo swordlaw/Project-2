@@ -64,6 +64,7 @@ img {
     border-radius: 50%;
     align-content: center;
     text-align: center;
+    float: center;
 }
 .leftcolumn{
     width: 50%;
