@@ -76,6 +76,11 @@ img {
       text-align: right;
     text-align: center;
 }
+.leftcolumn hr{
+    border: 0; 
+    height: 1px; 
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), midnightblue, rgba(0, 0, 0, 0)); 
+}
   .rightcolumn{
     width: 50%;
     min-height: 100%;
