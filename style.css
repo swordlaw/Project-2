@@ -61,9 +61,8 @@ img {
     float: center;
 }
 .himg{
-    max-width: 50%;
+    width: 50%;
     border-radius: 50%;
-    align-content: center;
     text-align: center;
     float: center;
 }
